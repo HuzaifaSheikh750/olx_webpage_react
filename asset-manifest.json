@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/OLX_Webpage_using_React/static/css/main.109919d8.chunk.css",
+    "main.js": "/OLX_Webpage_using_React/static/js/main.0617c897.chunk.js",
+    "main.js.map": "/OLX_Webpage_using_React/static/js/main.0617c897.chunk.js.map",
+    "runtime-main.js": "/OLX_Webpage_using_React/static/js/runtime-main.f126de94.js",
+    "runtime-main.js.map": "/OLX_Webpage_using_React/static/js/runtime-main.f126de94.js.map",
+    "static/css/2.800be05e.chunk.css": "/OLX_Webpage_using_React/static/css/2.800be05e.chunk.css",
+    "static/js/2.a40f9bd8.chunk.js": "/OLX_Webpage_using_React/static/js/2.a40f9bd8.chunk.js",
+    "static/js/2.a40f9bd8.chunk.js.map": "/OLX_Webpage_using_React/static/js/2.a40f9bd8.chunk.js.map",
+    "static/js/3.df36f9e6.chunk.js": "/OLX_Webpage_using_React/static/js/3.df36f9e6.chunk.js",
+    "static/js/3.df36f9e6.chunk.js.map": "/OLX_Webpage_using_React/static/js/3.df36f9e6.chunk.js.map",
+    "index.html": "/OLX_Webpage_using_React/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/OLX_Webpage_using_React/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.109919d8.chunk.css.map": "/OLX_Webpage_using_React/static/css/main.109919d8.chunk.css.map",
+    "static/js/2.a40f9bd8.chunk.js.LICENSE.txt": "/OLX_Webpage_using_React/static/js/2.a40f9bd8.chunk.js.LICENSE.txt",
+    "static/media/Capture.b55c16f3.PNG": "/OLX_Webpage_using_React/static/media/Capture.b55c16f3.PNG",
+    "static/media/Capture2.dbb00963.PNG": "/OLX_Webpage_using_React/static/media/Capture2.dbb00963.PNG",
+    "static/media/appstore.af2620fc.PNG": "/OLX_Webpage_using_React/static/media/appstore.af2620fc.PNG",
+    "static/media/bike.c6824e51.jpg": "/OLX_Webpage_using_React/static/media/bike.c6824e51.jpg",
+    "static/media/footerads2.087df8b4.PNG": "/OLX_Webpage_using_React/static/media/footerads2.087df8b4.PNG",
+    "static/media/footermobile.7c005de5.PNG": "/OLX_Webpage_using_React/static/media/footermobile.7c005de5.PNG",
+    "static/media/mobile.e80ed664.jpg": "/OLX_Webpage_using_React/static/media/mobile.e80ed664.jpg",
+    "static/media/shoes.1c19dc0f.jpg": "/OLX_Webpage_using_React/static/media/shoes.1c19dc0f.jpg",
+    "static/media/slider.ddafb57f.PNG": "/OLX_Webpage_using_React/static/media/slider.ddafb57f.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f126de94.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.a40f9bd8.chunk.js",
+    "static/css/main.109919d8.chunk.css",
+    "static/js/main.0617c897.chunk.js"
+  ]
+}
